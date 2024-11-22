@@ -2,7 +2,7 @@
 🌟 Java: mi terreno de juego favorito.
 🐍 Python: explorando su potencial para futuros proyectos.
 ⚡ Kotlin y Swift: creando apps móviles con estilo.
-🛠️ MySQL y MongoDB: organizando datos como un pro.
+🛠️ MySQL y MongoDB: organizando y manejando datos.
 
 📚 Actualmente trabajando en:
 🏟️ Una app para ligas locales de fútbol: conectando equipos y fomentando la interacción.

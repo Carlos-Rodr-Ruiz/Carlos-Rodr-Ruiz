@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Mi stack en progreso:
+🌟 Java: mi terreno de juego favorito.
+🐍 Python: explorando su potencial para futuros proyectos.
+⚡ Kotlin y Swift: creando apps móviles con estilo.
+🛠️ MySQL y MongoDB: organizando datos como un pro.
 
-<!--
-**Carlos-Rodr-Ruiz/Carlos-Rodr-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Actualmente trabajando en:
+🏟️ Una app para ligas locales de fútbol: conectando equipos y fomentando la interacción.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌈 Hobbies:
+🏉 Rugby: pasión por el trabajo en equipo dentro y fuera del campo.
+🎮 Gaming, simulación y realidad virtual: desde setups en Assetto Corsa Competizione 🏎️ hasta exploraciones inmersivas en mundos digitales 🌌.
+📷 Fotografía deportiva: capturando la emoción de cada partido.

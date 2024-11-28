@@ -20,4 +20,3 @@
 
  - 🎮 Gaming, simulación y realidad virtual: desde setups en Assetto Corsa Competizione 🏎️ hasta exploraciones inmersivas en mundos digitales 🌌.
 
- - 📷 Fotografía deportiva: capturando la emoción de cada partido.
